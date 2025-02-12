@@ -11,7 +11,8 @@ library(ggplot2)
 
 ## Load data
 # data <- haven::read_dta("https://github.com/Mixtape-Sessions/Instrumental-Variables/blob/main/Exercises/Exercise1/angrist_krueger_91.dta?raw=true")
-data <- read_dta("~/Downloads/angrist_krueger_91.dta")
+# data <- read_dta("~/Downloads/angrist_krueger_91.dta")
+data <- read_dta("Data/angrist_krueger.dta")
 data <- as.data.table(data)
 
 data[, qob_1 := (qob == 1)]

@@ -1,16 +1,8 @@
-<img src="https://raw.githubusercontent.com/Mixtape-Sessions/Instrumental-Variables/main/img/banner.png" alt="Mixtape Sessions Banner" width="100%"> 
-
+<img src="https://raw.githubusercontent.com/Mixtape-Sessions/Instrumental-Variables/main/img/banner.png" alt="Mixtape Sessions Banner" width="100%"/>
 
 ## About
 
-Instrumental variables (IV) is a powerful tool for leveraging external (“exogenous”) variation to estimate
-the causal effects of otherwise confounded (“endogenous”) variables. This two-day workshop will introduce
-the basics of IV through different practical examples, formalize the requirements of a valid and powerful IV,
-and discuss the mechanics of the two-stage least squares (2SLS) estimator. Special focus will be paid on
-interpreting linear IV under heterogeneous treatment effects and recent advances with “formula” instruments.
-The course includes a programming exercise where IV techniques are illustrated in a real-world application.
-
-
+Instrumental variables (IV) is a powerful tool for leveraging external (“exogenous”) variation to estimate the causal effects of otherwise confounded (“endogenous”) variables. This two-day workshop will introduce the basics of IV through different practical examples, formalize the requirements of a valid and powerful IV, and discuss the mechanics of the two-stage least squares (2SLS) estimator. Special focus will be paid on interpreting linear IV under heterogeneous treatment effects and recent advances with “formula” instruments. The course includes a programming exercise where IV techniques are illustrated in a real-world application.
 
 ## Schedule
 
@@ -18,12 +10,13 @@ The course includes a programming exercise where IV techniques are illustrated i
 
 #### About
 
-- Introduction
+-   Introduction
 
-- IV Mechanics
-  - Just-Identified IV
-  - OVeridentification
-  - Weak vs. Many-Weak Bias
+-   IV Mechanics
+
+    -   Just-Identified IV
+    -   OVeridentification
+    -   Weak vs. Many-Weak Bias
 
 #### Readings
 
@@ -61,15 +54,14 @@ The course includes a programming exercise where IV techniques are illustrated i
 
 <a href="https://raw.githubusercontent.com/Mixtape-Sessions/Instrumental-Variables/main/Readings/Lecture2/Abdulkadiroglu_Angrist_Hull_Pathak_2016.pdf">Abdulkadiroglu, Angrist, Hull, Pathak (2016)</a>
 
-
 ### IV Interpretation
 
 #### About
 
-- IV Interpretation
-  - LATE and Generalizations
-  - Characterizing Compliers
-  - Diff-in-Diff and IV
+-   IV Interpretation
+    -   LATE and Generalizations
+    -   Characterizing Compliers
+    -   Diff-in-Diff and IV
 
 #### Readings
 
@@ -121,14 +113,13 @@ The course includes a programming exercise where IV techniques are illustrated i
 
 <a href="https://raw.githubusercontent.com/Mixtape-Sessions/Instrumental-Variables/main/Readings/Lecture3/Vytlacil_2002.pdf">Vytlacil (2002)</a>
 
-
 ### Formula Instruments
 
 #### About
 
-- Formula Instruments
-  - Shift-Share IV
-  - Recentered IV
+-   Formula Instruments
+    -   Shift-Share IV
+    -   Recentered IV
 
 #### Readings
 
